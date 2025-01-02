@@ -1,2 +1,1 @@
-# SQL-Project
-This project showcases a  collection of SQL scripts, queries, and database management techniques designed to analyze data, manage a database, solve a specific problem. It includes practical examples and best practices for working with  PostgreSQL. Key Features: Database Creation &amp; Design Data Analysis Data Manipulation Performance Optimization
+This repository showcases a complete data analysis workflow, integrating projects created using Excel, SQL, and Power BI. It demonstrates a structured approach to data analysis, from raw data exploration to actionable insights visualized in interactive dashboards. The portfolio reflects proficiency in handling diverse tools for solving real-world analytical problems.
